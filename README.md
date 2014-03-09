@@ -1,4 +1,6 @@
 FU
 ==
 
-Just another publishing concern. No reason to worry.
+Just another publishing concern. No reason to worry. 
+
+Some initial ideas on nesw media publishing. More soon. And FU.
